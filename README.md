@@ -8,7 +8,7 @@ This repository contains a python notebook that implements 4 interpretability me
 
 ## Related article
 
-You can find a more detailed explanation of this notebook in [this article from ***vic.ai***](https://www.vic.ai/blog/)
+You can find a more detailed explanation of this notebook in [this article from ***vic.ai***](https://www.vic.ai/blog/the-xai-problem-in-machine-learning)
 
 ## Author and contact
 
